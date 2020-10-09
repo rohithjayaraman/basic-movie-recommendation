@@ -10,7 +10,14 @@ This program is meant to give a basic practical implementation and understanding
 ## Running the program
 This application is basically a python notebook that was made and used as a Kaggle notebook. The dataset used (movielens 100K) is directly available through kaggle and so this notebook uses that as a source. 
 
-To run this simply, upload it onto a kaggle notebook, add the required dataset and run it. 
+To run this simply, upload it onto a kaggle notebook, add the required dataset and run it.
+
+## References
+I read a few blogs in order to understand the implementation better. I have listed them and would like to thank the authors.
+[Build a content based recommender system](https://towardsdatascience.com/how-to-build-from-scratch-a-content-based-movie-recommender-with-natural-language-processing-25ad400eb243)
+[Movie recommendation with scikit-suprise](https://medium.com/hacktive-devs/recommender-system-made-easy-with-scikit-surprise-569cbb689824)
 
 ## Sources
 [Kaggle Grouplens Movielens 100K Dataset](https://www.kaggle.com/grouplens/movielens-latest-small)
+[Scikit surprise PyPi](https://pypi.org/project/scikit-surprise/)
+[Surprise documentation](https://surprise.readthedocs.io/en/stable/)

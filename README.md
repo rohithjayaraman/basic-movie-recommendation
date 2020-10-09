@@ -14,10 +14,10 @@ To run this simply, upload it onto a kaggle notebook, add the required dataset a
 
 ## References
 I read a few blogs in order to understand the implementation better. I have listed them and would like to thank the authors.
-[Build a content based recommender system](https://towardsdatascience.com/how-to-build-from-scratch-a-content-based-movie-recommender-with-natural-language-processing-25ad400eb243)
-[Movie recommendation with scikit-suprise](https://medium.com/hacktive-devs/recommender-system-made-easy-with-scikit-surprise-569cbb689824)
+- [Build a content based recommender system](https://towardsdatascience.com/how-to-build-from-scratch-a-content-based-movie-recommender-with-natural-language-processing-25ad400eb243)
+- [Movie recommendation with scikit-suprise](https://medium.com/hacktive-devs/recommender-system-made-easy-with-scikit-surprise-569cbb689824)
 
 ## Sources
-[Kaggle Grouplens Movielens 100K Dataset](https://www.kaggle.com/grouplens/movielens-latest-small)
-[Scikit surprise PyPi](https://pypi.org/project/scikit-surprise/)
-[Surprise documentation](https://surprise.readthedocs.io/en/stable/)
+- [Kaggle Grouplens Movielens 100K Dataset](https://www.kaggle.com/grouplens/movielens-latest-small)
+- [Scikit surprise PyPi](https://pypi.org/project/scikit-surprise/)
+- [Surprise documentation](https://surprise.readthedocs.io/en/stable/)
